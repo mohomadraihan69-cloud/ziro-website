@@ -1,0 +1,34 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"IZU REGEDIT"="PLESE DONT SHERE "
+"Beep"="No"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"ExtendedSounds"="no"
+"MouseHoverHeight"="4"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="6"
+"MouseSpeed"="0"
+"MouseThreshold1"="2"
+"MouseThreshold2"="4"
+"MouseTrails"="0"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+"MouseHoverTime"="9"
+"Beep2"="No"
+"DoubleClickHeight2"="0,9"
+"DoubleClickSpeed2"="0,7"
+"DoubleClickWidth2"="0,5"
+"ExtendedSounds2"="No"
+"MouseSensitivity2"="10"
+"MouseSpeed2"="1"
+"MouseThreshold12"="0"
+"MouseThreshold22"="0"
+"SmoothMouseXCurve2"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,40,01,\
+  00,00,00,00,00,29,dc,03,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve2"=hex:00,00,00,00,00,00,00,00,66,a6,02,00,00,00,00,00,cd,4c,\
+  05,00,00,00,00,00,a0,99,0a,00,00,00,00,00,38,33,15,00,00,00,00,00
+
